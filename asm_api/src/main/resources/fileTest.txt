@@ -1,0 +1,1863 @@
+{
+  "code": 1,
+  "message": "Success",
+  "data": {
+    "listTrending": [
+      {
+        "id": 6,
+        "name": "Gemini Man",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sát thủ về hưu bị buộc phải chạy trốn và nhận ra anh phải đối đầu với địch thủ ghê gớm nhất - bản sao trẻ trung hơn của mình.",
+        "duration": 95,
+        "view": 200,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Angel Has Fallen",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img3.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Một nhân viên Mật vụ bị kết tội oan chạy đua với thời gian để cứu Tổng thống và đất nước khỏi hiểm họa trong lúc trốn tránh chính cơ quan của mình và FBI.",
+        "duration": 95,
+        "view": 150,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "A Score To Settle",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Bị chẩn đoán mắc bệnh hiểm nghèo, một cựu tội phạm cố gắng hàn gắn với con trai trong lúc lên kế hoạch trả thù băng đảng cũ.",
+        "duration": 110,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Fast & Furious: Hobbs & Shaw",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Khi một kẻ vô chính phủ được cải tạo gien chiếm được một vũ khí sinh học nguy hiểm có thể làm thay đổi cả thế giới, một nhân viên hành pháp phải hợp lực cùng một kẻ ngoài vòng pháp luật để đánh bại hắn.",
+        "duration": 100,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "John Wick Chapter 3: Parabellum",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img1.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Sau khi sát hại một thành viên của tổ chức sát thủ quốc tế, mạng của John Wick được treo giá 14 triệu USD, và một đạo quân săn tiền thưởng liền bám riết lấy anh.",
+        "duration": 110,
+        "view": 100,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Tomb Raider",
+        "create_at": "2020-08-29",
+        "update_at": "2020-08-28",
+        "thumbnail": "http://192.168.14.103:8080/static/img8.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Khi tìm kiếm manh mối về vụ mất tích của người cha là nhà thám hiểm, cô gái Lara thông minh và can đảm bước vào hành trình tìm kiếm lăng mộ mất tích mà cha cô đang bỏ dở.",
+        "duration": 100,
+        "view": 20,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Constantine: City Of Demons",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img5.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sai lầm tệ hại đã khiến con gái bạn thân của thợ săn quỷ Constatine bị hôn mê. Hai người bước vào hành trình đầy hiểm nguy để giành lại linh hồn cô bé.",
+        "duration": 90,
+        "view": 5,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Aquaman",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img7.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một người nửa nhân loại nửa Atlantis bước chân vào hành trình xác định xem mình có phải là vị vua xứng đáng của thế giới Atlantis.",
+        "duration": 120,
+        "view": 1,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Despicable Me",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img6.jpg",
+        "categoryid": 1,
+        "directorid": 1,
+        "description": "Phim về Gru-một tên tội phạm khét tiếng và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm bởi Vector - tên trộm trẻ tuổi đã đánh cắp kim tự tháp Ai Cập. Bởi vậy để lấy lại danh tiếng của mình, Gru đã nghĩ đến một kế hoạch có một không hai: đánh cắp mặt trăng.",
+        "duration": 95,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 1,
+          "name": "Hài hước",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Night At The Museum: Secret Of The Tomb",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Anh chàng gác đêm Michael một lần nữa sẽ theo viện bảo tàng đến xứ sở hoa anh đào để công tác. Không quên mang theo những người bạn tí hon của mình, và đặc biệt là tấm bài vị thần kì quý giả của vua Ai Cập. Cùng những nhân vật sống dậy từ bảo tàng, Micheal bắt đầu một chuyến phiêu lưu đầy hài hước.",
+        "duration": 100,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      }
+    ],
+    "listHot": [
+      {
+        "id": 1,
+        "name": "Despicable Me",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img6.jpg",
+        "categoryid": 1,
+        "directorid": 1,
+        "description": "Phim về Gru-một tên tội phạm khét tiếng và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm bởi Vector - tên trộm trẻ tuổi đã đánh cắp kim tự tháp Ai Cập. Bởi vậy để lấy lại danh tiếng của mình, Gru đã nghĩ đến một kế hoạch có một không hai: đánh cắp mặt trăng.",
+        "duration": 95,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 1,
+          "name": "Hài hước",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Night At The Museum: Secret Of The Tomb",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Anh chàng gác đêm Michael một lần nữa sẽ theo viện bảo tàng đến xứ sở hoa anh đào để công tác. Không quên mang theo những người bạn tí hon của mình, và đặc biệt là tấm bài vị thần kì quý giả của vua Ai Cập. Cùng những nhân vật sống dậy từ bảo tàng, Micheal bắt đầu một chuyến phiêu lưu đầy hài hước.",
+        "duration": 100,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Aquaman",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img7.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một người nửa nhân loại nửa Atlantis bước chân vào hành trình xác định xem mình có phải là vị vua xứng đáng của thế giới Atlantis.",
+        "duration": 120,
+        "view": 1,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Constantine: City Of Demons",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img5.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sai lầm tệ hại đã khiến con gái bạn thân của thợ săn quỷ Constatine bị hôn mê. Hai người bước vào hành trình đầy hiểm nguy để giành lại linh hồn cô bé.",
+        "duration": 90,
+        "view": 5,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Tomb Raider",
+        "create_at": "2020-08-29",
+        "update_at": "2020-08-28",
+        "thumbnail": "http://192.168.14.103:8080/static/img8.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Khi tìm kiếm manh mối về vụ mất tích của người cha là nhà thám hiểm, cô gái Lara thông minh và can đảm bước vào hành trình tìm kiếm lăng mộ mất tích mà cha cô đang bỏ dở.",
+        "duration": 100,
+        "view": 20,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "John Wick Chapter 3: Parabellum",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img1.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Sau khi sát hại một thành viên của tổ chức sát thủ quốc tế, mạng của John Wick được treo giá 14 triệu USD, và một đạo quân săn tiền thưởng liền bám riết lấy anh.",
+        "duration": 110,
+        "view": 100,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "A Score To Settle",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Bị chẩn đoán mắc bệnh hiểm nghèo, một cựu tội phạm cố gắng hàn gắn với con trai trong lúc lên kế hoạch trả thù băng đảng cũ.",
+        "duration": 110,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Fast & Furious: Hobbs & Shaw",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Khi một kẻ vô chính phủ được cải tạo gien chiếm được một vũ khí sinh học nguy hiểm có thể làm thay đổi cả thế giới, một nhân viên hành pháp phải hợp lực cùng một kẻ ngoài vòng pháp luật để đánh bại hắn.",
+        "duration": 100,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Angel Has Fallen",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img3.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Một nhân viên Mật vụ bị kết tội oan chạy đua với thời gian để cứu Tổng thống và đất nước khỏi hiểm họa trong lúc trốn tránh chính cơ quan của mình và FBI.",
+        "duration": 95,
+        "view": 150,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Gemini Man",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sát thủ về hưu bị buộc phải chạy trốn và nhận ra anh phải đối đầu với địch thủ ghê gớm nhất - bản sao trẻ trung hơn của mình.",
+        "duration": 95,
+        "view": 200,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      }
+    ],
+    "listSuggest": [
+      {
+        "id": 9,
+        "name": "A Score To Settle",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Bị chẩn đoán mắc bệnh hiểm nghèo, một cựu tội phạm cố gắng hàn gắn với con trai trong lúc lên kế hoạch trả thù băng đảng cũ.",
+        "duration": 110,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Angel Has Fallen",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img3.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Một nhân viên Mật vụ bị kết tội oan chạy đua với thời gian để cứu Tổng thống và đất nước khỏi hiểm họa trong lúc trốn tránh chính cơ quan của mình và FBI.",
+        "duration": 95,
+        "view": 150,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Aquaman",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img7.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một người nửa nhân loại nửa Atlantis bước chân vào hành trình xác định xem mình có phải là vị vua xứng đáng của thế giới Atlantis.",
+        "duration": 120,
+        "view": 1,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Constantine: City Of Demons",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img5.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sai lầm tệ hại đã khiến con gái bạn thân của thợ săn quỷ Constatine bị hôn mê. Hai người bước vào hành trình đầy hiểm nguy để giành lại linh hồn cô bé.",
+        "duration": 90,
+        "view": 5,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Despicable Me",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img6.jpg",
+        "categoryid": 1,
+        "directorid": 1,
+        "description": "Phim về Gru-một tên tội phạm khét tiếng và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm bởi Vector - tên trộm trẻ tuổi đã đánh cắp kim tự tháp Ai Cập. Bởi vậy để lấy lại danh tiếng của mình, Gru đã nghĩ đến một kế hoạch có một không hai: đánh cắp mặt trăng.",
+        "duration": 95,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 1,
+          "name": "Hài hước",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Fast & Furious: Hobbs & Shaw",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Khi một kẻ vô chính phủ được cải tạo gien chiếm được một vũ khí sinh học nguy hiểm có thể làm thay đổi cả thế giới, một nhân viên hành pháp phải hợp lực cùng một kẻ ngoài vòng pháp luật để đánh bại hắn.",
+        "duration": 100,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Gemini Man",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sát thủ về hưu bị buộc phải chạy trốn và nhận ra anh phải đối đầu với địch thủ ghê gớm nhất - bản sao trẻ trung hơn của mình.",
+        "duration": 95,
+        "view": 200,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "John Wick Chapter 3: Parabellum",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img1.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Sau khi sát hại một thành viên của tổ chức sát thủ quốc tế, mạng của John Wick được treo giá 14 triệu USD, và một đạo quân săn tiền thưởng liền bám riết lấy anh.",
+        "duration": 110,
+        "view": 100,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Night At The Museum: Secret Of The Tomb",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Anh chàng gác đêm Michael một lần nữa sẽ theo viện bảo tàng đến xứ sở hoa anh đào để công tác. Không quên mang theo những người bạn tí hon của mình, và đặc biệt là tấm bài vị thần kì quý giả của vua Ai Cập. Cùng những nhân vật sống dậy từ bảo tàng, Micheal bắt đầu một chuyến phiêu lưu đầy hài hước.",
+        "duration": 100,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Tomb Raider",
+        "create_at": "2020-08-29",
+        "update_at": "2020-08-28",
+        "thumbnail": "http://192.168.14.103:8080/static/img8.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Khi tìm kiếm manh mối về vụ mất tích của người cha là nhà thám hiểm, cô gái Lara thông minh và can đảm bước vào hành trình tìm kiếm lăng mộ mất tích mà cha cô đang bỏ dở.",
+        "duration": 100,
+        "view": 20,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      }
+    ],
+    "listWatch": [
+      {
+        "id": 8,
+        "name": "Tomb Raider",
+        "create_at": "2020-08-29",
+        "update_at": "2020-08-28",
+        "thumbnail": "http://192.168.14.103:8080/static/img8.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Khi tìm kiếm manh mối về vụ mất tích của người cha là nhà thám hiểm, cô gái Lara thông minh và can đảm bước vào hành trình tìm kiếm lăng mộ mất tích mà cha cô đang bỏ dở.",
+        "duration": 100,
+        "view": 20,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Night At The Museum: Secret Of The Tomb",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Anh chàng gác đêm Michael một lần nữa sẽ theo viện bảo tàng đến xứ sở hoa anh đào để công tác. Không quên mang theo những người bạn tí hon của mình, và đặc biệt là tấm bài vị thần kì quý giả của vua Ai Cập. Cùng những nhân vật sống dậy từ bảo tàng, Micheal bắt đầu một chuyến phiêu lưu đầy hài hước.",
+        "duration": 100,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "John Wick Chapter 3: Parabellum",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img1.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Sau khi sát hại một thành viên của tổ chức sát thủ quốc tế, mạng của John Wick được treo giá 14 triệu USD, và một đạo quân săn tiền thưởng liền bám riết lấy anh.",
+        "duration": 110,
+        "view": 100,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Gemini Man",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img2.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sát thủ về hưu bị buộc phải chạy trốn và nhận ra anh phải đối đầu với địch thủ ghê gớm nhất - bản sao trẻ trung hơn của mình.",
+        "duration": 95,
+        "view": 200,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Fast & Furious: Hobbs & Shaw",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Khi một kẻ vô chính phủ được cải tạo gien chiếm được một vũ khí sinh học nguy hiểm có thể làm thay đổi cả thế giới, một nhân viên hành pháp phải hợp lực cùng một kẻ ngoài vòng pháp luật để đánh bại hắn.",
+        "duration": 100,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Despicable Me",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img6.jpg",
+        "categoryid": 1,
+        "directorid": 1,
+        "description": "Phim về Gru-một tên tội phạm khét tiếng và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm bởi Vector - tên trộm trẻ tuổi đã đánh cắp kim tự tháp Ai Cập. Bởi vậy để lấy lại danh tiếng của mình, Gru đã nghĩ đến một kế hoạch có một không hai: đánh cắp mặt trăng.",
+        "duration": 95,
+        "view": 0,
+        "url": null,
+        "category": {
+          "id": 1,
+          "name": "Hài hước",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Constantine: City Of Demons",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img5.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một sai lầm tệ hại đã khiến con gái bạn thân của thợ săn quỷ Constatine bị hôn mê. Hai người bước vào hành trình đầy hiểm nguy để giành lại linh hồn cô bé.",
+        "duration": 90,
+        "view": 5,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Aquaman",
+        "create_at": "2020-09-01",
+        "update_at": "2020-09-01",
+        "thumbnail": "http://192.168.14.103:8080/static/img7.jpg",
+        "categoryid": 2,
+        "directorid": 2,
+        "description": "Một người nửa nhân loại nửa Atlantis bước chân vào hành trình xác định xem mình có phải là vị vua xứng đáng của thế giới Atlantis.",
+        "duration": 120,
+        "view": 1,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 2,
+          "name": "Shawn Levy",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Shawn Levy"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Angel Has Fallen",
+        "create_at": "2020-09-02",
+        "update_at": "2020-09-02",
+        "thumbnail": "http://192.168.14.103:8080/static/img3.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Một nhân viên Mật vụ bị kết tội oan chạy đua với thời gian để cứu Tổng thống và đất nước khỏi hiểm họa trong lúc trốn tránh chính cơ quan của mình và FBI.",
+        "duration": 95,
+        "view": 150,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 2,
+            "name": "Steve Carell",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Steve Carell"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "A Score To Settle",
+        "create_at": "2020-09-03",
+        "update_at": "2020-09-03",
+        "thumbnail": "http://192.168.14.103:8080/static/img9.jpg",
+        "categoryid": 2,
+        "directorid": 1,
+        "description": "Bị chẩn đoán mắc bệnh hiểm nghèo, một cựu tội phạm cố gắng hàn gắn với con trai trong lúc lên kế hoạch trả thù băng đảng cũ.",
+        "duration": 110,
+        "view": 120,
+        "url": null,
+        "category": {
+          "id": 2,
+          "name": "Hành động",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "movies": null
+        },
+        "director": {
+          "id": 1,
+          "name": "Chris Renaud",
+          "create_at": null,
+          "update_at": null,
+          "image": null,
+          "description": "Chris Renaud"
+        },
+        "casts": [
+          {
+            "id": 1,
+            "name": "Russell Brand",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Russell Brand"
+          },
+          {
+            "id": 3,
+            "name": "Jason Segel",
+            "create_at": null,
+            "update_at": null,
+            "image": null,
+            "description": "Jason Segel"
+          }
+        ]
+      }
+    ]
+  },
+  "datas": null
+}
